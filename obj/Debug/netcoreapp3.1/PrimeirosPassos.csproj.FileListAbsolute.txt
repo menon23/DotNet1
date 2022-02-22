@@ -1,0 +1,13 @@
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.exe
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.deps.json
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.runtimeconfig.json
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.runtimeconfig.dev.json
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.dll
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\bin\Debug\netcoreapp3.1\PrimeirosPassos.pdb
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.csprojAssemblyReference.cache
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.AssemblyInfoInputs.cache
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.AssemblyInfo.cs
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.csproj.CoreCompileInputs.cache
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.dll
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.pdb
+E:\Users\Menon\Documents\ADS\GFT\DIO\PrimeirosPassos\obj\Debug\netcoreapp3.1\PrimeirosPassos.genruntimeconfig.cache
